@@ -3,9 +3,9 @@
 - Database name: library
 - Database username: root
 - 'php artisan serve' to start the server
-\
-\
-\
+  
+  
+  
 
 ## Endpoints available
 ```+--------+-----------+--------------------------------------+-----------------+------------------------------------------------------------+------------------------------------------+
@@ -33,9 +33,9 @@
 - api/authors/bind/{authorId}/{bookId} - binds author to book (point 6. from task - missing only unbinding action)
 - api/authors/find/{name} - finds author by name (point 4. from task)
 - api/books/find-by-author/{id} - finds books by author (point 5. from task)
-\
-\
-\
+  
+  
+  
 
 ## Exemplary data to add Books and Authors
 ```
